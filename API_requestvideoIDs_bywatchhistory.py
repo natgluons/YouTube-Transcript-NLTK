@@ -11,8 +11,7 @@ params = {
 
 # Include the access token in the request headers
 headers = {
-    "Authorization": "Bearer ya29.a0AfB_byCMt9X3D0CIVefZjoRZsgxMthE6v9WT9wp_vWwhnoMAK0N-vhJ4MZo72CBBFboB5dm_o_7OfCd4pndyduSpuLMpbNrkVRZs_WolpPJCxIZu1JstVa3B_PzVJewj-xxuol-9PPSzeHjGql8islh_MfEPyfQei9f9aCgYKAaASARASFQGOcNnCKairEzgqMTjNTaZszOWHZQ0171"
-}
+    "Authorization": "[Replace this with your own access token]}
 
 # Initialize an empty list to store video IDs
 watch_history_ids = []
