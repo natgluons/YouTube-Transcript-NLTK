@@ -22,6 +22,6 @@ This project leverages the YouTube Data API and Natural Language Processing (NLP
 + YouTube Data API
 + NLTK
 
-Pipeline: ![image](https://github.com/user-attachments/assets/d1c8a31a-e08d-449a-9872-bf0befe2d95a)
+![image](https://github.com/user-attachments/assets/d1c8a31a-e08d-449a-9872-bf0befe2d95a)
 
 Reporting Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNWQ1NzIwMjEtZDA5MC00NjYxLTlkNTMtNGVkMTgyZjcwMjFkIiwidCI6ImRiNmUxMTgzLTRjNjUtNDA1Yy04MmNlLTdjZDUzZmE2ZTlkYyIsImMiOjEwfQ%3D%3D
